@@ -13,5 +13,7 @@ Installations required:-
 How to run the code?
 
 You can copy paste the code in the notepad and run the python file by typing the command: python filename.py
+
 OR
+
 Open the .ipynb file in the jupyter notebook and run all the cells.
